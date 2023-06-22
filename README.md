@@ -4,7 +4,7 @@
 ### During summer 2023, I will as software engineering intern in Kingston Technology(fountain valley)
 
 #### SWE Projects:
-  - [Dorm Delivery](https://github.com/thhreh/DormDelivery): a food ordering app build based on spring and react that allows User to browse picture, shop from restaurants.
+  - [Boiler Delivery](https://github.com/Yu-Nie/CS348_Project): a food ordering app build based on Django that allows Users to browse food pictures, shop from restaurants, then checkout their orders.
   - [Donation Collector](https://github.com/thhreh/Donation-Collector): an online community website Built using react for donation resource sharing. Allow Donors to upload items to donate. NGOs can filter items based on categories, and distance. Allow NGOs to pick items to pickup and then schedule pickup dates with Donors.
 
 #### OS Projects:
