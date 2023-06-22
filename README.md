@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Wei Yan
 ### I'm an incoming graduate student at Carnegie Mellon University Silicon Valley
-### I have a great passion for Computer Science, Currently pursuing a master's in software engineering degree, expect graduation in summer 2024 or winter 2024(my degree is flexible).
+### I completed my Bachelor's at Purdue University, majoring in Computer Science and Data Science.
+### I have a great passion for Computer Science, Data Science, and AI. Currently pursuing a master's in software engineering degree, and expected graduation in summer 2024 or winter 2024(my degree is flexible).
 ### During the summer of 2023, I am working as a software engineering intern at Kingston Technology(fountain valley)
 ### I have experience in many languages and frameworks. Spring for Java, ASP.NET core for C#, Python, Node.js for Javascript, android development
 ### Capable of building web frontend without using any library or framework.
