@@ -1,21 +1,22 @@
 # 👋 Hi, I’m Wei Yan
 ### I'm an incoming graduate student at Carnegie Mellon University Silicon Valley
-### I have a great passion for Computer Science, Currently pursuing a master in software engineering degree.
-### During summer 2023, I will as software engineering intern in Kingston Technology(fountain valley)
+### I have a great passion for Computer Science, Currently pursuing a master's in software engineering degree, expect graduation in summer 2024 or winter 2024(my degree is flexible).
+### During the summer of 2023, I am working as a software engineering intern at Kingston Technology(fountain valley)
+### I have experience in many languages and frameworks. Spring for Java, ASP.NET core for C#, Node.js for Javascript, android development
+### Capable of building web frontend without using any library or framework.
 
-#### SWE Projects:
-  - [Boiler Delivery](https://github.com/Yu-Nie/CS348_Project): a food ordering app build based on Django that allows Users to browse food pictures, shop from restaurants, then checkout their orders.
+#### Main SWE Projects:
+  - [Boiler Delivery](https://github.com/Yu-Nie/CS348_Project): a food ordering app build based on Django that allows Users to browse food pictures, shop from restaurants, then check out their orders.
   - [Donation Collector](https://github.com/thhreh/Donation-Collector): an online community website Built using react for donation resource sharing. Allow Donors to upload items to donate. NGOs can filter items based on categories, and distance. Allow NGOs to pick items to pickup and then schedule pickup dates with Donors.
 
 #### OS Projects:
   - [Shell Interpreter](https://github.com/thhreh/Shell-Project): Implemented a shell interpreter using C, C++, Lex& Yacc, enabling users to interact with OS through command line. Implementing key shell functionality such as program execution/process creation, input/output redirection, wildcard, piping, subshell, edit-mode, history list, and Zombie Process Handling. 
 
-  - [Memory Allocator](https://github.com/thhreh/MemoryAllocator): Using C, impletemented memory allocation and deallocation functions.
-Main part of the code are in Mymalloc.c; - Gained knowledge about memory structure, how to turn memory obtain from system call into manageable memory section, deallocating memory, managing extra chunks from system call
+  - [Memory Allocator](https://github.com/thhreh/MemoryAllocator): Using C, impletemented memory allocation and deallocation functions. Gained knowledge about memory structure, how to turn memory obtain from system call into manageable memory section, deallocating memory, managing extra chunks from system calls
   
 #### [My Linkedin page](https://www.linkedin.com/in/weimaxyan/)
  
-#### 💞️ I'm currently looking for an internship for 24 summer on Software Engineering
+#### 💞️ I'm currently looking for an internship for 24 summers in Software Engineering, or full-time opportunities staring summer 24 or winter 24.
 #### 📫 contact me through my email: thhreh@gmail.com
 
 <!---
