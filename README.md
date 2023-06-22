@@ -8,7 +8,7 @@
   - [Donation Collector](https://github.com/thhreh/Donation-Collector): an online community website Built using react for donation resource sharing. Allow Donors to upload items to donate. NGOs can filter items based on categories, and distance. Allow NGOs to pick items to pickup and then schedule pickup dates with Donors.
 
 #### OS Projects:
-  - [Shell Interpreter]((https://github.com/thhreh/Shell-Project): Implemented a shell interpreter using C, C++, Lex& Yacc, enabling users to interact with OS through command line. Implementing key shell functionality such as program execution/process creation, input/output redirection, wildcard, piping, subshell, edit-mode, history list, and Zombie Process Handling. 
+  - [Shell Interpreter](https://github.com/thhreh/Shell-Project): Implemented a shell interpreter using C, C++, Lex& Yacc, enabling users to interact with OS through command line. Implementing key shell functionality such as program execution/process creation, input/output redirection, wildcard, piping, subshell, edit-mode, history list, and Zombie Process Handling. 
 
   - [Memory Allocator](https://github.com/thhreh/MemoryAllocator): Using C, impletemented memory allocation and deallocation functions.
 Main part of the code are in Mymalloc.c; - Gained knowledge about memory structure, how to turn memory obtain from system call into manageable memory section, deallocating memory, managing extra chunks from system call
