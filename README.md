@@ -7,8 +7,8 @@
 ### Capable of building web frontend without using any library or framework.
 
 #### Main SWE Projects:
-  - [Boiler Delivery](https://github.com/Yu-Nie/CS348_Project): a food ordering app build based on Django that allows Users to browse food pictures, shop from restaurants, then check out their orders.
-  - [Donation Collector](https://github.com/thhreh/Donation-Collector): an online community website Built using react for donation resource sharing. Allow Donors to upload items to donate. NGOs can filter items based on categories, and distance. Allow NGOs to pick items to pickup and then schedule pickup dates with Donors.
+  - [Boiler Delivery](https://github.com/Yu-Nie/CS348_Project): Individual project: a food ordering app build based on Django that allows Users to browse food pictures, shop from restaurants, then check out their orders.
+  - [Donation Collector](https://github.com/thhreh/Donation-Collector): Team Lead of Group Project: an online community website Built using react for donation resource sharing. Allow Donors to upload items to donate. NGOs can filter items based on categories, and distance. Allow NGOs to pick items to pickup and then schedule pickup dates with Donors.
 
 #### OS Projects:
   - [Shell Interpreter](https://github.com/thhreh/Shell-Project): Implemented a shell interpreter using C, C++, Lex& Yacc, enabling users to interact with OS through command line. Implementing key shell functionality such as program execution/process creation, input/output redirection, wildcard, piping, subshell, edit-mode, history list, and Zombie Process Handling. 
