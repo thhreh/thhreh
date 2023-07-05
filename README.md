@@ -16,7 +16,7 @@
 
 - [Midi analyzer and Processor](https://github.com/thhreh/Midi-Analyzor-and-Processor): Using C, a rudimentary music library with associated analysis and adjustment tools. It reads in midi find and turn into customize struct. After parsing user are able to listen to the music, analysis midi meta data, and modify it.
   
-  - [Memory Allocator](https://github.com/thhreh/MemoryAllocator): Using C, impletemented memory allocation and deallocation functions. Gained knowledge about memory structure, how to turn memory obtain from system call into manageable memory section, deallocating memory, managing extra chunks from system calls
+- [Memory Allocator](https://github.com/thhreh/MemoryAllocator): Using C, impletemented memory allocation and deallocation functions. Gained knowledge about memory structure, how to turn memory obtain from system call into manageable memory section, deallocating memory, managing extra chunks from system calls
   
 #### [My Linkedin page](https://www.linkedin.com/in/weimaxyan/)
 #### [My Most Recent Resume](https://docs.google.com/document/d/1iP_aA44O9Eriqt4Wd4ZGAQ5vvJ1KZ6Z7/edit?usp=sharing&ouid=108679247917250176581&rtpof=true&sd=true)
