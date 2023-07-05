@@ -14,6 +14,8 @@
 #### OS Projects:
   - [Shell Interpreter](https://github.com/thhreh/Shell-Project): Implemented a shell interpreter using C, C++, Lex& Yacc, enabling users to interact with OS through command line. Implementing key shell functionality such as program execution/process creation, input/output redirection, wildcard, piping, subshell, edit-mode, history list, and Zombie Process Handling. 
 
+- [Midi analyzer and Processor](https://github.com/thhreh/Midi-Analyzor-and-Processor): Using C, a rudimentary music library with associated analysis and adjustment tools. It reads in midi find and turn into customize struct. After parsing user are able to listen to the music, analysis midi meta data, and modify it.
+  
   - [Memory Allocator](https://github.com/thhreh/MemoryAllocator): Using C, impletemented memory allocation and deallocation functions. Gained knowledge about memory structure, how to turn memory obtain from system call into manageable memory section, deallocating memory, managing extra chunks from system calls
   
 #### [My Linkedin page](https://www.linkedin.com/in/weimaxyan/)
