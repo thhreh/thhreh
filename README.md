@@ -24,7 +24,6 @@
 #### 💞️ I'm currently looking for an internship for 24 summers in Software Engineering, or full-time opportunities staring summer 24 or winter 24.
 #### 📫 contact me through my email: thhreh@gmail.com
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talenteddeveloper&show_icons=true&locale=en&layout=compact" alt="Wei Yan" /></p>
 
 <!---
 aNewbieProgrammer/aNewbieProgrammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
