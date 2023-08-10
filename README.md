@@ -4,7 +4,7 @@
 ### I have a great passion for Software Engineering, Data Science and AI. Currently pursuing a master's in software engineering degree, and expecting to graduate in summer 2024 or winter 2024(my degree is flexible).
 ### During the summer of 2023, I am working as a software engineering intern at Kingston Technology(fountain valley)
 ### I have experience in many languages and frameworks. Spring for Java, ASP.NET core for C#, Python, Node.js for Javascript, android development
-### Capable of building web frontend without using any library or framework.
+### keeping up with all the industry trend is my goal.
 
 #### Main SWE Projects:
   - [Dorm Delivery](https://github.com/thhreh/DormDelivery) (Individual project): A online ordering website developed using spring mvc and react.
