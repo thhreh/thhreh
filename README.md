@@ -7,7 +7,6 @@
 ### keeping up with all the industry trend is my goal.
 
 #### Main SWE Projects:
-  - [Dorm Delivery](https://github.com/thhreh/DormDelivery) (Individual project): A online ordering website developed using spring mvc and react.
   - [Boiler Delivery](https://github.com/Yu-Nie/CS348_Project) (Team Lead of Group project): a food ordering app build based on Django that allows Users to browse food pictures, shop from restaurants, then check out their orders.
   - [Donation Collector](https://github.com/thhreh/Donation-Collector) (Scrum Master of Group Project): an online community website Built using react for donation resource sharing. Allow Donors to upload items to donate. NGOs can filter items based on categories, and distance. Allow NGOs to pick items to pickup and then schedule pickup dates with Donors.
 
