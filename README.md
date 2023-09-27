@@ -18,7 +18,7 @@
 - [Memory Allocator](https://github.com/thhreh/MemoryAllocator): Using C, impletemented memory allocation and deallocation functions. Gained knowledge about memory structure, how to turn memory obtain from system call into manageable memory section, deallocating memory, managing extra chunks from system calls
   
 #### [My Linkedin page](https://www.linkedin.com/in/weimaxyan/)
-#### [My Most Recent Resume](https://docs.google.com/document/d/1iP_aA44O9Eriqt4Wd4ZGAQ5vvJ1KZ6Z7/edit?usp=sharing&ouid=108679247917250176581&rtpof=true&sd=true)
+#### [My Most Recent Resume]([https://docs.google.com/document/d/1iP_aA44O9Eriqt4Wd4ZGAQ5vvJ1KZ6Z7/edit?usp=sharing&ouid=108679247917250176581&rtpof=true&sd=true](https://docs.google.com/document/d/149hFk6xJ9F_b1TOn7DPnI1Am997Bk0q4/edit?usp=sharing&ouid=108679247917250176581&rtpof=true&sd=true))
  
 #### 💞️ I'm currently looking for an internship for 24 summers in Software Engineering, or full-time opportunities staring summer 24 or winter 24.
 #### 📫 contact me through my email: thhreh@gmail.com
